@@ -1,3 +1,5 @@
+# [Install with one click](https://claude.ai/new?q=Install%20the%20skill%20from%20https%3A%2F%2Fgithub.com%2Falexey-max-fedorov%2Fmvhs-bellschedule-skill)
+
 # mvhs-bellschedule-skill
 
 A Claude skill that fetches and displays the live MVHS (Mountain View High School) bell schedule, with the current period highlighted and a progress indicator.
