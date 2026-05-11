@@ -7,7 +7,7 @@ allowed-tools:
   - bash
 metadata:
   author: alexey-max-fedorov
-  version: "1.0.0"
+  version: "1.1.0"
   source: https://github.com/alexey-max-fedorov/mvhs-bellschedule-skill
 ---
 
