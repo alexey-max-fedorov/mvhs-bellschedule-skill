@@ -1,6 +1,14 @@
 ---
 name: mvhs-bell-schedule
 description: Fetch and display the live MVHS (Mountain View High School) bell schedule for today or any given date, with the current period highlighted and a progress indicator. Use this skill whenever the user asks about the MVHS bell schedule, what period it is right now, whether there's school today, or what time any period starts or ends at MVHS. Trigger on phrases like "bell schedule", "what period is it", "MVHS schedule", "is there school today", "what time is lunch/brunch/tutorial", or any reference to MVHS class periods.
+license: Noncommercial only. See LICENSE for full terms.
+compatibility: Requires Python 3.6+ and internet access (fetches live data from Firebase).
+allowed-tools:
+  - bash
+metadata:
+  author: alexey-max-fedorov
+  version: "1.0.0"
+  source: https://github.com/alexey-max-fedorov/mvhs-bellschedule-skill
 ---
 
 # MVHS Bell Schedule
